@@ -1,0 +1,22 @@
+{
+  "accountManagement": {
+    "accountSettings": "Account Settings",
+    "language": "Language",
+    "english": "English (US)",
+    "spanish": "Spanish (Spain)",
+    "german": "German (Germany)",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "username": "Username",
+    "email": "Email",
+    "resetPassword": "Reset password",
+    "deleteAccount": "Delete account"
+  },
+  "filterReceiptList": {
+    "filterTerms": "Filter terms"
+  },
+  "uploadReceipt": {
+    "drop": "Drop an image here or click to open"
+  }
+}

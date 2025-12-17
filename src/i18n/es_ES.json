@@ -1,0 +1,16 @@
+{
+  "accountManagement": {
+    "accountSettings": "Configuración de la cuenta",
+    "language": "Idioma",
+    "english": "Inglés (EE. UU.)",
+    "spanish": "Español (España)",
+    "german": "Alemán (Alemania)",
+    "theme": "Tema",
+    "light": "Claro",
+    "dark": "Oscuro",
+    "username": "Nombre de usuario",
+    "email": "Correo electrónico",
+    "resetPassword": "Restablecer contraseña",
+    "deleteAccount": "Eliminar cuenta"
+  }
+}
