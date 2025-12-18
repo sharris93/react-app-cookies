@@ -24,7 +24,8 @@ export const UserProvider = ({ children }) => {
     await fetchUser()
   }
 
-  const logout = () => {
+  const logout = async () => {
+    await api.post('/auth/logout/')
     setUser(null)
     toggleTheme('light')
     i18n.changeLanguage('en_US')
